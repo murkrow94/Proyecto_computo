@@ -26,16 +26,18 @@ import org.json.JSONObject;
 
 public class Intercambiar extends AppCompatActivity {
 
+
     private Button boton, boton1;
     private EditText texto;
     private IntentIntegrator qrScan;
+
+
 
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_intercambiar);
-
         final Context context = this;
         texto = (EditText) this.findViewById(R.id.editText);
         boton = (Button) this.findViewById(R.id.button);
@@ -68,10 +70,9 @@ public class Intercambiar extends AppCompatActivity {
 
             }
         });
-
     }
 
-    public void scanQRCode() {
+    public void scanQRCode(){
         qrScan.initiateScan();
     }
 

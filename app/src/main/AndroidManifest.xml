@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.ingrid.proyecto_computo">
-    <uses-permission android:name="android.permission.CAMERA"/>
+
+    <uses-permission android:name="android.permission.CAMERA" />
+
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
@@ -18,12 +20,12 @@
         </activity>
         <activity android:name=".MainActivity" />
         <activity android:name=".Album" />
-        <activity android:name=".Alb" />
         <activity android:name=".Comprar" />
         <activity android:name=".QrActivity" />
-        <activity android:name=".ReadQrActivity"/>
+        <activity android:name=".ReadQrActivity" />
         <activity android:name=".Intercambiar" />
-        <activity android:name=".Avance"></activity>
+        <activity android:name=".Avance" />
+        <activity android:name=".VistaAlbum"></activity>
     </application>
 
 </manifest>

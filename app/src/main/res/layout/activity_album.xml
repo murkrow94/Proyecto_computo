@@ -7,4 +7,112 @@
     android:background="@drawable/wallz">
 
 
+    <EditText
+        android:id="@+id/editText2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="174dp"
+        android:layout_marginEnd="126dp"
+        android:layout_marginLeft="43dp"
+        android:layout_marginRight="126dp"
+        android:layout_marginStart="43dp"
+        android:layout_marginTop="11dp"
+        android:ems="10"
+        android:inputType="number"
+        android:onClick="mo"
+        android:text="Cantidad"
+        app:layout_constraintBottom_toTopOf="@+id/button3"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/editText5"
+        tools:ignore="RtlHardcoded" />
+
+    <EditText
+        android:id="@+id/editText3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="3dp"
+        android:layout_marginEnd="126dp"
+        android:layout_marginLeft="43dp"
+        android:layout_marginRight="126dp"
+        android:layout_marginStart="43dp"
+        android:layout_marginTop="14dp"
+        android:ems="10"
+        android:inputType="text|number"
+        android:text="Id"
+        app:layout_constraintBottom_toTopOf="@+id/editText5"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="RtlHardcoded" />
+
+    <EditText
+        android:id="@+id/editText5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="11dp"
+        android:layout_marginEnd="126dp"
+        android:layout_marginLeft="43dp"
+        android:layout_marginRight="126dp"
+        android:layout_marginStart="43dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="Nombre"
+        app:layout_constraintBottom_toTopOf="@+id/editText2"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/editText3"
+        tools:ignore="RtlHardcoded" />
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="32dp"
+        android:layout_marginLeft="27dp"
+        android:layout_marginRight="32dp"
+        android:layout_marginStart="27dp"
+        android:layout_marginTop="173dp"
+        android:onClick="alta"
+        android:text="Alta"
+        app:layout_constraintEnd_toStartOf="@+id/button4"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/editText2"
+        tools:ignore="RtlHardcoded" />
+
+    <Button
+        android:id="@+id/button4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="114dp"
+        android:layout_marginEnd="96dp"
+        android:layout_marginLeft="58dp"
+        android:layout_marginRight="96dp"
+        android:layout_marginStart="58dp"
+        android:layout_marginTop="174dp"
+        android:onClick="modificacion"
+        android:text="Modificacion"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/button3"
+        app:layout_constraintTop_toBottomOf="@+id/editText2"
+        tools:ignore="RtlHardcoded" />
+
+    <Button
+        android:id="@+id/button5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="39dp"
+        android:layout_marginEnd="183dp"
+        android:layout_marginLeft="113dp"
+        android:layout_marginRight="183dp"
+        android:layout_marginStart="113dp"
+        android:layout_marginTop="248dp"
+        android:onClick="consulta"
+        android:text="Consulta"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/editText2"
+        tools:ignore="RtlHardcoded" />
 </android.support.constraint.ConstraintLayout>

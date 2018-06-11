@@ -7,7 +7,7 @@
     <string name="title_lista">List of Stickers</string>
     <string name="title_num_cartas">Number of Stickers</string>
     <string name="title_cambio">Do you like to trade some stickers?\n Put the number of the stickers</string>
-    <string name="title_num_sobres">Remaining Packs</string>
+    <string name="title_num_sobres">Remaining Packs:</string>
     <string name="title_menu">Menu</string>
     <string name="title_enviar">Send</string>
     <string name="title_recibir">Receive</string>

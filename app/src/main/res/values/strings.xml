@@ -7,7 +7,7 @@
     <string name="title_lista">Lista de Jugadores</string>
     <string name="title_num_cartas">Numero de Cartas</string>
     <string name="title_cambio">¿Desea intercambiar las estampas?\n Ingrese el numero de estampa</string>
-    <string name="title_num_sobres">Sobres Disponibles</string>
+    <string name="title_num_sobres">Sobres Disponibles:</string>
     <string name="title_menu">Menú</string>
     <string name="title_enviar">Enviar</string>
     <string name="title_recibir">Recibir</string>
@@ -69,6 +69,7 @@
     <string name="title_activity_splash_screen">SplashScreen</string>
     <string name="dummy_button">Dummy Button</string>
     <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="todo">TODO</string>
 
 
 </resources>

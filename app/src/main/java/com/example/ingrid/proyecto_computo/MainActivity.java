@@ -22,7 +22,7 @@ public class MainActivity extends AppCompatActivity {
         siguiente.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-            startActivity(new Intent(MainActivity.this,Alb.class));
+            startActivity(new Intent(MainActivity.this,VistaAlbum.class));
             }
         });
 
