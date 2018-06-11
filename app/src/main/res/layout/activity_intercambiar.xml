@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@drawable/wallz"
-    tools:context=".TradeActivity">
+    tools:context=".Intercambiar">
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -37,6 +37,7 @@
             android:gravity="center"
             android:inputType="textPersonName"
             android:text="Name"
+            android:textColor="@android:color/background_light"
             tools:layout_editor_absoluteX="73dp"
             tools:layout_editor_absoluteY="29dp" />
 
@@ -52,7 +53,8 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginRight="40dp"
-                android:text="ENVIAR"
+                android:text="@string/title_enviar"
+                android:textColor="@android:color/holo_blue_dark"
                 app:layout_constraintBottom_toBottomOf="parent"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintHorizontal_bias="0.0"
@@ -63,7 +65,8 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="40dp"
-                android:text="RECIBIR" />
+                android:text="@string/title_recibir"
+                android:textColor="@android:color/holo_blue_dark" />
         </LinearLayout>
 
     </LinearLayout>

@@ -1,19 +1,19 @@
 <resources>
-    <string name="app_name">Album Estrellas de Rusia 2018</string>
+    <string name="app_name">All-Stars Rusia 2018</string>
     <string name="title_album">Album</string>
-    <string name="title_tienda">Tienda</string>
-    <string name="title_avance">Avance</string>
-    <string name="title_intercambio">Intercambio</string>
-    <string name="title_lista">Lista de Jugadores</string>
-    <string name="title_num_cartas">Numero de Cartas</string>
-    <string name="title_cambio">¿Desea intercambiar las estampas?\n Ingrese el numero de estampa</string>
-    <string name="title_num_sobres">Sobres Disponibles</string>
-    <string name="title_menu">Menú</string>
-    <string name="title_enviar">Enviar</string>
-    <string name="title_recibir">Recibir</string>
-    <string name="cancelar">Cancelar</string>
+    <string name="title_tienda">Store</string>
+    <string name="title_avance">Advance</string>
+    <string name="title_intercambio">Trade</string>
+    <string name="title_lista">List of Stickers</string>
+    <string name="title_num_cartas">Number of Stickers</string>
+    <string name="title_cambio">Do you like to trade some stickers?\n Put the number of the stickers</string>
+    <string name="title_num_sobres">Remaining Packs</string>
+    <string name="title_menu">Menu</string>
+    <string name="title_enviar">Send</string>
+    <string name="title_recibir">Receive</string>
+    <string name="cancelar">Cancel</string>
 
-    <string name="compra">¿Deseas comprar un sobre?</string>
+    <string name="compra">Do you like to buy some stickers?</string>
     <string name="_0">0</string>
     <string name="_1">1.-Nawaf Al Abed</string>
     <string name="_2">2.-Mohamed Salah</string>
