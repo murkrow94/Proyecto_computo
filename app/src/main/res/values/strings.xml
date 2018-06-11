@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">Album Estrellas de Rusia 2018</string>
+    <string name="title_album">Album</string>
+    <string name="title_tienda">Tienda</string>
+    <string name="title_avance">Avance</string>
+    <string name="title_intercambio">Intercambio</string>
+    <string name="title_lista">Lista de Jugadores</string>
+    <string name="title_num_cartas">Numero de cartas</string>
+    <string name="title_cambio">¿Desea intercambiar las estampas?\n Ingrese el numero de estampa</string>
+
+    <string name="compra">¿Deseas comprar un sobre?</string>
+    <string name="_0">0</string>
+    <string name="_1">1.-Nawaf Al Abed</string>
+    <string name="_2">2.-Mohamed Salah</string>
+    <string name="_3">3.-Emil Forsberg</string>
+    <string name="_4">4.-Aleksandr Kokorin</string>
+    <string name="_5">5.-Victor Moses</string>
+    <string name="_6">6.-Philippe Coutinho</string>
+    <string name="_7">7.-Eden Hazard</string>
+    <string name="_8">8.-Olivier Giroud</string>
+    <string name="_9">9.-James Rodríguez</string>
+    <string name="_10">10.-Sadio Mané</string>
+    <string name="_11">11.-Hirving Lozano</string>
+    <string name="_12">12.-Cristiano Ronaldo</string>
+    <string name="_13">13.-Andrés Iniesta</string>
+    <string name="_14">14.-Branislav Ivanovic</string>
+    <string name="_15">15.-Gylfi Sigurdsson</string>
+    <string name="_16">16.-Lionel Messi</string>
+    <string name="_17">17.-Paolo Guerrero</string>
+    <string name="_18">18.-Marcelo Vieira</string>
+    <string name="_19">19.-Shinji Kagawa</string>
+    <string name="_20">20.-Radamel Falcao</string>
+    <string name="_21">21.-Mesut Özil</string>
+    <string name="_22">22.-Moussa Konaté</string>
+    <string name="_23">23.-Luca Modric</string>
+    <string name="_24">24.-Hamza Mendyl</string>
+    <string name="_25">25.-Romelu Lukaku</string>
+    <string name="_26">26.-Ferjani Sassi</string>
+    <string name="_27">27.-Mehdi Benatia</string>
+    <string name="_28">28.-Francisco Alarcón</string>
+    <string name="_29">29.-Toni Kroos</string>
+    <string name="_30">30.-Christian Eriksen</string>
+    <string name="_31">31.-Luis Suárez</string>
+    <string name="_32">32.-Xherdan Shaqiri</string>
+    <string name="_33">33.-Kylian Mbappé</string>
+    <string name="_34">34.-Thomas Müller</string>
+    <string name="_35">35.-Mile Jedinak</string>
+    <string name="_36">36.-Alex Iwobi</string>
+    <string name="_37">37.-Carlos Vela</string>
+    <string name="_38">38.-Manuel Neuer</string>
+    <string name="_39">39.-Javier Hernández</string>
+    <string name="_40">40.-Sergio Agüero</string>
+    <string name="_41">41.-Andrés Guardado</string>
+    <string name="_42">42.-Harry Kane</string>
+    <string name="_43">43.-Son Heung-min</string>
+    <string name="_44">44.-Paulo Dybala</string>
+    <string name="_45">45.-Antoine Griezmann</string>
+    <string name="_46">46.-Neymar Jr.</string>
+    <string name="_47">47.-Keylor Navas</string>
+    <string name="_48">48.-Sergio Ramos</string>
+    <string name="_49">49.-Robert Lewandowski</string>
+    <string name="_50">50.-Edinson Cavani</string>
+
+    <string name="title_activity_splash_screen">SplashScreen</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+
+</resources>
